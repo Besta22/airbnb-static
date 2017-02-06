@@ -1,0 +1,36 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: images/card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+romain:
+  owner_name: Romain Paillard
+  picture: images/card-london.jpeg
+  owner_picture: images/romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+joy:
+  owner_name: Joy Abisaib
+  picture: images/card-brussels.jpeg
+  owner_picture: images/joy.jpg
+  name: Joy's Pimp Palace
+  summary:  Baller-ass apartment in club central
+  city:  Brussels, Belgium
+  wifi: true
+  pets: true
+elissa:
+  owner_name: Elissa Besta
+  picture: images/card-seattle.jpg
+  owner_picture: images/elissa.jpg
+  name: Elissa's Urban Oasis
+  summary:  Small but stylish cardboard box
+  city:  Seattle, US
+  wifi: true
+  pets: true
+
+
